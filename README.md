@@ -34,8 +34,7 @@ I’m passionate about applying molecular science and computational tools to sol
 - 📧 Email: jirakrit.s@psu.ac.th  
 - 🔗 [Google Scholar](https://scholar.google.com/citations?hl=th&user=Le-p5j0AAAAJ)  
 - 💼 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57189575558) 
-- 🌐 Website: Coming soon via GitHub Pages
-
+- 🌐 [ResearchGate](https://www.researchgate.net/profile/Jirakrit-Saetang?ev=hdr_xprf)
 ---
 
 <p align="center">
