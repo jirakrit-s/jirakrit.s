@@ -1,4 +1,7 @@
-<h1 align="center">👨‍🔬 Jirakrit Saetang</h1>
+<p align="center">
+  <img src="profile" alt="My profile picture" width="200" />
+</p>
+<h1 align="center">Jirakrit Saetang</h1>
 <p align="center">
   <em>Food Scientist | Molecular Biologist | Molecular Simulation</em><br>
   📍 Prince of Songkla University, Thailand
